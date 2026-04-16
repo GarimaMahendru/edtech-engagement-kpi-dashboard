@@ -1,0 +1,22 @@
+kpi,window,users,pct,denom_label
+Live+Video Activation (24hr),W (7-day avg),312,48.6,Purchasers W
+Live+Video Activation (24hr),W-1 (7-day avg),298,46.2,Purchasers W-1
+Live+Video Activation (24hr),Today,167,50.1,Purchasers Today
+Live+Video Activation (24hr),MTD,4821,47.9,Purchasers MTD
+Live+Video Activation (24hr),Full LM,5103,45.3,Purchasers Full LM
+Test Activation (24hr),W (7-day avg),148,23.1,Purchasers W
+Test Activation (24hr),W-1 (7-day avg),139,21.6,Purchasers W-1
+Test Activation (24hr),Today,76,22.8,Purchasers Today
+Test Activation (24hr),MTD,2214,22.0,Purchasers MTD
+Test Activation (24hr),Full LM,2398,21.3,Purchasers Full LM
+D7 Retention,Jan 2025 cohort,2041,44.2,Jan Purchasers
+D7 Retention,Feb 2025 cohort,1876,42.8,Feb Purchasers
+D7 Retention,Mar 2025 cohort,1934,46.1,Mar Purchasers
+D30 Retention,Jan 2025 cohort,1189,25.7,Jan Purchasers
+D30 Retention,Feb 2025 cohort,1102,25.1,Feb Purchasers
+Signup to Category (D1),Yesterday,312,63.2,Signups Yesterday
+Signup to Category (D1),W avg,4284,62.7,Signups W
+Signup to Category (D1),MTD,29811,61.9,Signups MTD
+Content Consumed / DAU,Yesterday,17420,,DAU Yesterday
+Content Consumed / DAU,W avg,16830,,DAU W avg
+Content Consumed / DAU,MTD avg,15970,,DAU MTD avg
